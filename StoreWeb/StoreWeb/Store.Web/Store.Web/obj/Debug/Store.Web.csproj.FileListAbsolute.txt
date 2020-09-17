@@ -1,0 +1,242 @@
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\Store.Web.dll.config
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\Store.Web.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\Store.Web.pdb
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.exe
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.exe.config
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.rsp
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.exe
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.exe.config
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.rsp
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.AppContext.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Console.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.exe
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.exe.config
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.rsp
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Helpers.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Mvc.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Razor.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Razor.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Helpers.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\System.Web.Mvc.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csprojAssemblyReference.cache
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csproj.CopyComplete
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.dll
+C:\Users\ricardo.souza\Desktop\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.pdb
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Web.dll.config
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Web.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Web.pdb
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.exe
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.exe.config
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.rsp
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.exe
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.exe.config
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.rsp
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.AppContext.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Console.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Compression.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Claims.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.ValueTuple.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.exe
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.exe.config
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.rsp
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\VBCSCompiler.exe
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.SqlServer.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Helpers.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Mvc.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Razor.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Razor.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.SqlServer.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Razor.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Razor.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Helpers.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Mvc.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csprojAssemblyReference.cache
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csproj.CoreCompileInputs.cache
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csproj.CopyComplete
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.dll
+C:\Teste Dojô\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.pdb
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Web.dll.config
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Web.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Web.pdb
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.exe
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.exe.config
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csc.rsp
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.exe
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.exe.config
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\csi.rsp
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.AppContext.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Console.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Compression.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Claims.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.ValueTuple.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.exe
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.exe.config
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\vbc.rsp
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\VBCSCompiler.exe
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.SqlServer.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Newtonsoft.Json.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Data.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Helpers.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Mvc.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Razor.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Razor.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\EntityFramework.SqlServer.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Newtonsoft.Json.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Data.pdb
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Store.Data.dll.config
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Razor.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Webpages.Razor.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Helpers.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\System.Web.Mvc.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csprojAssemblyReference.cache
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.csproj.CopyComplete
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.dll
+C:\Visual Studio\Tarefa\StoreWeb\StoreWeb\Store.Web\Store.Web\obj\Debug\Store.Web.pdb
